@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fd12ed07671c8f84e9d0093dfcb1f591
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bBlockNoPit: {fileID: 4163462461755076, guid: 0585db34acca57249a0e4d8cc035825c,
+      type: 2}
+  - bBlockPitMid: {fileID: 4183058277552018, guid: 4ae726c6ba0e2c04ba3685e64262747b,
+      type: 2}
+  - bBNoPit: {fileID: 4163462461755076, guid: 0585db34acca57249a0e4d8cc035825c, type: 2}
+  - bBPitMid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
